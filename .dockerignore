@@ -5,3 +5,6 @@ npm-debug.log
 README.md
 .next
 .git
+hardhat-setup/artifacts
+hardhat-setup/cache
+hardhat-setup/node_modules
